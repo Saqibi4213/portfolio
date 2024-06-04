@@ -21,7 +21,7 @@ Ensure you have the following software installed on your machine
 #git clone
 ```
 ```bash
-# 
+#git@github.com:Saqibi4213/portfolio.git
 ```
 ## Usage 🎯
 
